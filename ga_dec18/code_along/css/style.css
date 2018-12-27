@@ -1,0 +1,20 @@
+/* This is where we will be writing all of your styles */
+
+body {
+background-color: #4da6ff;
+color: white;
+font-family: "Charm",serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 50px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  font-style: italic;
+}
