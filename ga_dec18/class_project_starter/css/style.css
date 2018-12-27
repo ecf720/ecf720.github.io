@@ -18,3 +18,27 @@ h1 {
   letter-spacing: 2px;
   font-size: 50px;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  display:run-in;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  width: 40%;
+  padding:
+}
+
+#center_image {
+    vertical-align: middle;
+    padding: 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20px;
+    text-align:center;
+}
